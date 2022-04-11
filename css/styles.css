@@ -5,12 +5,12 @@ body {
 
 h1 {
   color: white;
-  font-size: 8rem;
+  font-size: 6vw;
 }
 
 p {
   color: white;
-  font-size: 4rem;
+  font-size: 4.5vw;
 }
 
 /* .top-section {
@@ -23,5 +23,5 @@ p {
 }
 
 .picture {
-  max-width: 200px;
+  max-width: 40%;
 }
