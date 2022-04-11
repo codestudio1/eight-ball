@@ -1,0 +1,18 @@
+body {
+  background-color: darkcyan;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+  size: 10rem;
+}
+.top-section {
+  padding-top: 5%;
+}
+
+.div {
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
